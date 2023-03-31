@@ -1,0 +1,3 @@
+# tsinterface
+
+random ts interface
